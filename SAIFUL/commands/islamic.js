@@ -52,6 +52,7 @@ const fs = global.nodemodule["fs-extra"];
 "https://i.imgur.com/mqEYRdy.mp4",
 "https://i.imgur.com/NaVsFmQ.mp4",
 "https://i.imgur.com/31XSmVj.mp4",
+"https://i.imgur.com/z8dyGiL.mp4",
 "https://i.imgur.com/PPamCPI.mp4",
 "https://i.imgur.com/i6Iy7iN.mp4",
  ];
