@@ -11,7 +11,7 @@ module.exports.config = {
 
 module.exports.run = async function({ api, event }) {
  api.sendMessage(
- "https://github.com/saiful0144/SAIFUL-BOT-V1.git",
+ "https://github.com/saimon-bot/SAIMOM-00.git",
  event.threadID,
  event.messageID
  );
@@ -23,7 +23,7 @@ module.exports.handleEvent = async function({ api, event }) {
  const text = event.body.toLowerCase().trim();
  if (text === "fork") {
  return api.sendMessage(
- "https://github.com/saiful0144/SAIFUL-BOT-V1.git",
+ "https://github.com/saimon-bot/SAIMOM-00.git",
  event.threadID,
  event.messageID
  );
