@@ -35,15 +35,15 @@ module.exports.run = async function({ api, event }) {
   const hijriDate = "[Sunday 6th Ashwin 1432]";
 
   // Bot Owner ID
-  const ownerID = "100078049308655";
+  const ownerID = "61558713189332";
 
   // মেসেজ পাঠানোর আগে গ্রুপ মেম্বার চেক করা
-  let ownerText = "Mohammad Akash"; // ডিফল্ট
+  let ownerText = "Saimon Editz"; // ডিফল্ট
   try {
     const threadInfo = await api.getThreadInfo(threadID);
     const memberIDs = threadInfo.participantIDs || [];
     if (memberIDs.includes(ownerID)) {
-      ownerText = { tag: "Mohammad Akash", id: ownerID }; // মেনশন
+      ownerText = { tag: "Saimon Editz", id: ownerID }; // মেনশন
     }
   } catch (err) {
     console.log(err);
@@ -57,7 +57,7 @@ ____❮ 𝙲𝚊𝚕𝚎𝚗𝚍𝚎𝚛 ❯____
 • 𝐇𝐢𝐣𝐫𝐢 𝐃𝐚𝐭𝐞 : ${hijriDate}
 • 𝐁𝐨𝐭 𝐔𝐩𝐭𝐢𝐦𝐞 : ${hours} hour(s), ${minutes} minute(s), ${seconds} second(s)
 
-• 𝙱𝚘𝚝 𝙾𝚠𝚗𝚎𝚛 - ${ownerText}
+• 𝙱𝚘𝚝 𝙾𝚠𝚗𝚎𝚛 - ${𝐎𝐰𝐧𝐞𝐫 𝐒𝐚𝐢𝐦𝐨𝐧}
 `;
 
   api.sendMessage(message, threadID);
