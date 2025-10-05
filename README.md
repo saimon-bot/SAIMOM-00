@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <strong>Made by:</strong> Saiful<br>
-  <strong>GitHub:</strong> [@saiful0144](https://github.com/saiful0144)<br>
+  <strong>Made by:</strong> Saimon<br>
+  <strong>GitHub:</strong> [@saiful0144](https://github.com/saimon-bot/SAIMOM-00.git)<br>
   <strong>Telegram:</strong> [@arakashiam](https://t.me/arakashiam)
 </p>
 
