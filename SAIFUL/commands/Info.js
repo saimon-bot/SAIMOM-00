@@ -65,10 +65,10 @@ module.exports.run = async function ({ api, event, args, Users, Threads }) {
  😍𝐒𝐚𝐢𝐦𝐨𝐧 𝐂𝐡𝐚𝐭 𝐁𝐨𝐭😘`;
 
  const imgLinks = [
- "https://i.imgur.com/5P9Pckt.png",
- "https://i.imgur.com/JKWVvKL.png",
- "https://i.imgur.com/WFHtK3d.png",
- "https://i.imgur.com/luzSTS3.png"
+ "https://drive.google.com/file/d/1h0wO7iDe_srwPJSAZF3mLM5zalvcIuNq/view?usp=drivesdk",
+ "",
+ "",
+ ""
  ];
 
  const imgLink = imgLinks[Math.floor(Math.random() * imgLinks.length)];
