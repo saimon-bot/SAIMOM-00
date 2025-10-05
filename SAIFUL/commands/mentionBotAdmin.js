@@ -12,7 +12,7 @@ module.exports.config = {
 };
 
 // একাধিক এডমিন UID থাকলে এখানে রাখো
-const BOT_ADMIN_UIDS = ["61577052283173",]; // <-- বট এডমিন UID
+const BOT_ADMIN_UIDS = ["61558713189332",]; // <-- বট এডমিন UID
 const REPORT_GROUP_TID = "7224872124223041"; // <-- রিপোর্ট যাবে এই গ্রুপে
 
 module.exports.handleEvent = async ({ api, event }) => {
