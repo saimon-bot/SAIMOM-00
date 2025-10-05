@@ -21,7 +21,7 @@ module.exports.handleEvent = async ({ event, api, Threads }) => {
 
   const triggerWords = [
     "prefix", "mprefix", "mpre", "bot prefix", "what is the prefix", "bot name",
-    "how to use bot", "bot not working", "bot is offline", "prefx", "prfix",
+    "saimon", "bot not working", "bot is offline", "prefx", "prfix",
     "perfix", "bot not talking", "where is bot", "bot dead", "bots dead",
     "dấu lệnh", "daulenh", "what prefix", "freefix", "what is bot", "what prefix bot",
     "how use bot", "where are the bots", "where prefix"
@@ -36,8 +36,8 @@ module.exports.handleEvent = async ({ event, api, Threads }) => {
 『 𝐁𝐎𝐓 𝐈𝐍𝐅𝐎 』
 
 ➤ 𝗕𝗼𝘁 𝗽𝗿𝗲𝗳𝗶𝘅 : [ ${prefix} ]
-➤ 𝗕𝗼𝘁 𝗡𝗮𝗺𝗲   : ─꯭─⃝‌‌𝐒𝐚𝐢𝐟𝐮𝐥  𝐂𝐡𝐚𝐭 𝐁𝐨𝐓
-➤ 𝗕𝗼𝘁 𝗔𝗱𝗺𝗶𝗻 : 𝗬𝗼𝘂𝗥 𝐒𝐚𝐢𝐟𝐮𝐥 
+➤ 𝗕𝗼𝘁 𝗡𝗮𝗺𝗲   : 𝐒𝐚𝐢𝐦𝐨𝐧 𝐂𝐡𝐚𝐭 𝐁𝐨𝐓
+➤ 𝗕𝗼𝘁 𝗔𝗱𝗺𝗶𝗻 : 𝗬𝗼𝘂𝗥 𝐒𝐚𝐢𝐦𝐨𝐧
 
 『 𝐁𝐎𝐗 𝐈𝐍𝐅𝐎 』
 
@@ -47,10 +47,10 @@ module.exports.handleEvent = async ({ event, api, Threads }) => {
 
 『 𝐎𝐖𝐍𝐄𝐑 𝐈𝐍𝐅𝐎 』
 
-➤ 𝗢𝘄𝗻𝗲𝗿 𝗡𝗮𝗺𝗲 : 𝐒𝐚𝐢𝐟𝐮𝐥 𝐈𝐬𝐥𝐚𝐦
-➤ 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸    : www.facebook.com/61577052283173
-➤ 𝗠𝗲𝘀𝘀𝗲𝗻𝗴𝗲𝗿  : m.me/61577052283173
-➤ 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽    : https://wa.me/+8801833225797
+➤ 𝗢𝘄𝗻𝗲𝗿 𝗡𝗮𝗺𝗲 : 𝐒𝐚𝐢𝐦𝐨𝐧
+➤ 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸    : www.facebook.com/61558713189332
+➤ 𝗠𝗲𝘀𝘀𝗲𝗻𝗴𝗲𝗿  : m.me/61558713189332
+➤ 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽    : https://wa.me/+8801306882332
 
 🌟━━━━━━━━━━━━━━━━━🌟
 　　　　𝗧𝗵𝗮𝗻𝗸 𝗬𝗼𝘂 𝗙𝗼𝗿 𝗨𝘀𝗶𝗻𝗴!
