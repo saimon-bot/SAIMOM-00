@@ -1,7 +1,7 @@
 # 🤖 CHAT-BOT-SAIMON
 
 <p align="center">
-  <img src="https://drive.google.com/file/d/1h0wO7iDe_srwPJSAZF3mLM5zalvcIuNq/view?usp=drivesdk" width="150" height="150" style="border-radius:50%;">
+  <img src="https://i.imgur.com/pnKR32G.jpeg" width="150" height="150" style="border-radius:50%;">
 </p>
 
 <p align="center">
