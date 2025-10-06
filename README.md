@@ -7,7 +7,7 @@
 <p align="center">
   <strong>Made by:</strong> Saimon<br>
   <strong>GitHub:</strong> [@saimon-bot](https://github.com/saimon-bot/SAIMOM-00.git)<br>
-  <strong>Telegram:</strong> [@saimon editz](https://t.me/arakashiam)
+  <strong>Telegram:</strong> [@saimon editz](https://t.me/saimon_editz)
 </p>
 
 ---
