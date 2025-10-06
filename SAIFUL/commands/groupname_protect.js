@@ -145,7 +145,7 @@ module.exports.handleEvent = async ({ api, event }) => {
           // notify group (gentle)
           const msg = `╔═════▓࿇💚࿇▓═════╗
          ᴀꜱꜱᴀʟᴀᴍᴜ ᴀʟᴀɪᴋᴜᴍ 
-╚═════▓࿇💚࿇▓═════╝ \n*${nameNow}* ᴀʟʟ ᴍᴇᴍʙᴇʀꜱ ᴋᴀᴍᴏɴ ᴀᴄʜᴏ ꜱᴏʙᴀɪ \n┌───────────────⭓  
+╚═════▓࿇💚࿇▓═════╝ \n│*${nameNow}* \n│ᴀʟʟ ᴍᴇᴍʙᴇʀꜱ ᴋᴀᴍᴏɴ ᴀᴄʜᴏ ꜱᴏʙᴀɪ \n┌───────────────⭓  
 │    𝐎𝐰𝐧𝐞𝐫 𝐒𝐚𝐢𝐦𝐨𝐧
 └───────────────⭓ `;
           api.sendMessage(msg, threadID);
