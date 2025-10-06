@@ -33,7 +33,7 @@
 
 ```bash
 # রিপোজিটরি ক্লোন
-git clone https://github.com/saiful0144/SAIFUL-BOT-V1.git
+git clone https://github.com/saimon-bot/SAIMOM-00.git
 
 # ডিরেক্টরিতে প্রবেশ
 cd SAIMON-BOT-V1
