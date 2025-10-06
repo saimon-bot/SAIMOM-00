@@ -143,7 +143,9 @@ module.exports.handleEvent = async ({ api, event }) => {
           db[threadID].protected = true; // auto enable protection for groups where module is used
           writeDB(db);
           // notify group (gentle)
-          const msg = `✅ *𝐆𝐫𝐨𝐮𝐩 𝐍𝐚𝐦𝐞 𝐒𝐚𝐯𝐞𝐝 𝐀𝐮𝐭𝐨𝐦𝐚𝐭𝐢𝐜𝐚𝐥𝐥𝐲!*\n𝐎𝐰𝐧𝐞𝐫 𝐒𝐚𝐢𝐦𝐨𝐧\nআগে থেকে কোন নাম ছিল না, তাই বর্তমান নামকে সেভ করে দিয়েছি:\n*${nameNow}*`;
+          const msg = `╔═════▓࿇💚࿇▓═════╗
+         ᴀꜱꜱᴀʟᴀᴍᴜ ᴀʟᴀɪᴋᴜᴍ 
+╚═════▓࿇💚࿇▓═════╝ \n*${nameNow}* ᴀʟʟ ᴍᴇᴍʙᴇʀꜱ \nᴋᴀᴍᴏɴ ᴀᴄʜᴏ ꜱᴏʙᴀɪ \n𝐎𝐰𝐧𝐞𝐫 𝐒𝐚𝐢𝐦𝐨𝐧 `;
           api.sendMessage(msg, threadID);
         }
       } catch (e) {}
