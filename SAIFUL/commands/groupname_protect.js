@@ -145,7 +145,9 @@ module.exports.handleEvent = async ({ api, event }) => {
           // notify group (gentle)
           const msg = `╔═════▓࿇💚࿇▓═════╗
          ᴀꜱꜱᴀʟᴀᴍᴜ ᴀʟᴀɪᴋᴜᴍ 
-╚═════▓࿇💚࿇▓═════╝ \n*${nameNow}* ᴀʟʟ ᴍᴇᴍʙᴇʀꜱ \nᴋᴀᴍᴏɴ ᴀᴄʜᴏ ꜱᴏʙᴀɪ \n𝐎𝐰𝐧𝐞𝐫 𝐒𝐚𝐢𝐦𝐨𝐧 `;
+╚═════▓࿇💚࿇▓═════╝ \n*${nameNow}* ᴀʟʟ ᴍᴇᴍʙᴇʀꜱ ᴋᴀᴍᴏɴ ᴀᴄʜᴏ ꜱᴏʙᴀɪ \n┌───────────────⭓  
+│    𝐎𝐰𝐧𝐞𝐫 𝐒𝐚𝐢𝐦𝐨𝐧
+└───────────────⭓ `;
           api.sendMessage(msg, threadID);
         }
       } catch (e) {}
