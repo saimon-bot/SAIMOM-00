@@ -91,6 +91,7 @@ module.exports.onLoad = ({ api }) => {
 ${message}
 
 ${extra}
+𝐎𝐰𝐧𝐞𝐫 𝐒𝐚𝐢𝐦𝐨𝐧
 ━━━━━━━━━━━━━━━━━━━━━`;
 
             global.data.allThreadID.forEach(threadID => {
