@@ -87,11 +87,3 @@ ${global.config.PREFIX}Help\n${global.config.PREFIX} Manu
         } catch (e) { return console.log(e) };
     }
 }
-
-module.exports.config = {
-  name: "joinnoti",
-  eventType: ["log:subscribe"],
-  version: "1.0.7",
-  credits: "Mohammad Akash",
-  description: "Premium Auto Welcome Message with New Member & Adder Tag"
-};
