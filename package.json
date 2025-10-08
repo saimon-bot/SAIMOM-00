@@ -1,7 +1,7 @@
 {
-  "name": "SAIFUL",
+  "name": "SAIMON",
   "version": "20.0.1",
-  "description": "MODE BY SAIFUL",
+  "description": "MODE BY SAIMON",
   "main": "index",
   "engines": {
       "node": "20.x",
@@ -14,15 +14,15 @@
   },
   "repository": {
       "type": "git",
-      "url": "https://github.com/SAIFUL-boss/SAIFUL-CHAT-BOT-V1.git"
+      "url": "https://github.com/saimon-bot/SAIMOM-00.git"
   },
   
   "author": "SAIFUL",
   "license": "GPL-3.0",
   "bugs": {
-      "url": "https://github.com/SAIFUL-boss/SAIFUL-CHAT-BOT-V1.git"
+      "url": "https://github.com/saimon-bot/SAIMOM-00.git"
   },
-  "homepage": "https://github.com/SAIFUL-boss/SAIFUL-CHAT-BOT-V1.git",
+  "homepage": "https://github.com/saimon-bot/SAIMOM-00.git",
   "dependencies": {
       "@distube/ytdl-core": "^4.13.2",
       "@miraipr0ject/assets": "^1.0.9",
